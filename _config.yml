@@ -1,12 +1,10 @@
-# Welcome to Jekyll!
-
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic homepage - PhD candidate at HKUST NLP Group"
+description              : &description "Junteng Liu's academic homepage"
 url                      : https://sunwang2206-bot.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "sunwang2206-bot/LJT-Homepage"
@@ -15,11 +13,9 @@ repository               : "sunwang2206-bot/LJT-Homepage"
 author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
-  pronouns         :
-  bio              : "First-year PhD candidate at HKUST NLP Group. Research: NLP, ML, LLM Reasoning, VLM Hallucination, LLM Truthfulness & Interpretability."
+  bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
   location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
-  uri              :
   email            : "jliugi@connect.ust.hk"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   github           : "Vicent0205"
